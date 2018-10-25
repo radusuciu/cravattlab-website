@@ -1,7 +1,7 @@
 ---
-label: lee.hsin-yu.md
-hide_body: 
-is_partial: 
+label: Lab Member
+hide_body: false
+is_partial: false
 fields:
 - name: name
   label: Name
