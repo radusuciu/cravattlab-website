@@ -33,3 +33,5 @@ fields:
   type: list
   hidden: false
   default: ''
+pages:
+- src/content/members/radu-test2.md
